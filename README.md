@@ -32,5 +32,5 @@ SolStretch is a Shiny app for applying decorrelation stretch to RGB raster image
 pip install -r requirements.txt
 python main_window.py
 
-<img width="1476" alt="imagen" src="https://github.com/user-attachments/assets/3028041a-7561-40e7-89b7-d890a5f3eb8e" />
+<img width="1477" alt="Captura de pantalla 2025-06-19 a las 12 53 39" src="https://github.com/user-attachments/assets/a168deb5-c7ec-4697-b2e8-ecc3cfd02dfb" />
 
